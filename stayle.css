@@ -171,9 +171,8 @@ hr {
 }
 
 .home img {
-  width: 450px;
+  /* width: 450px; */
   border-radius: 10px;
-  margin-left:20px;
   border: 2px solid black;
 }
 
@@ -999,6 +998,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
