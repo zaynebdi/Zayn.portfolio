@@ -174,7 +174,7 @@ hr {
   border-radius: 10px;
   border: 2px solid black;
   hieght:300px;
-  width:400px;
+  width:auto;
 }
 
 
@@ -1000,6 +1000,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
