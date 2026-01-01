@@ -60,7 +60,7 @@ header {
 
 .home {
   margin: 160px 200px;
-  border:2px solid black;
+  /* border:2px solid black; */
 }
 
 .home-container {
@@ -1008,6 +1008,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
