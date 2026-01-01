@@ -65,6 +65,8 @@ header {
 .home-container {
   display: flex;
   gap: 20rem;
+  height:auto;
+  width:auto;
 }
 
 .home-p {
@@ -1003,6 +1005,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
