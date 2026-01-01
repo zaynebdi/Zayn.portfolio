@@ -82,6 +82,7 @@ header {
 }
 
 .info-home h1 {
+   padding-top: 25px;
   font-size: 70px;
   font-family: "Raleway", sans-serif;
   margin-bottom: 20px;
@@ -176,7 +177,6 @@ hr {
   max-height: 400px; */
   height: 500px;         
   border-radius: 10px;
-  padding-top: 25px;
   /* border: 2px solid black; */
 }
 
@@ -1003,6 +1003,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
