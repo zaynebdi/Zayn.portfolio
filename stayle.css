@@ -176,6 +176,7 @@ hr {
   max-height: 400px; */
   height: 500px;         
   border-radius: 10px;
+  padding-top: 25px;
   /* border: 2px solid black; */
 }
 
@@ -1002,6 +1003,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
