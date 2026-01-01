@@ -59,14 +59,12 @@ header {
 /* fine header  */
 
 .home {
- /* margin: 160px 200px;*/
+  margin: 160px 200px;
 }
 
 .home-container {
   display: flex;
-  gap: 8rem;
-  height:auto;
-  width:auto;
+  gap: 6rem;
 }
 
 .home-p {
@@ -172,15 +170,10 @@ hr {
   color: #000000;
 }
 
-
 .home img {
-  width: auto;          
-  /* max-width: 400px;
-  max-height: 400px; */
-  height: 400px;         
+  width: 400px;
   border-radius: 10px;
 }
-
 
 /* fine home  */
 
@@ -885,45 +878,3 @@ body {
     overflow-x: hidden;
   }
 }
-/* ===== FINAL RESPONSIVE FIX (SAFE ADDITION) ===== */
-
-/* Prevent horizontal scroll */
-html, body {
-  overflow-x: hidden;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
