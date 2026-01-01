@@ -171,11 +171,11 @@ hr {
 }
 
 .home img {
-  /* width: 450px; */
   border-radius: 10px;
   border: 2px solid black;
-  margin-left: 30px;
+  transform: translateX(30px);
 }
+
 
 /* fine home  */
 
@@ -999,6 +999,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
