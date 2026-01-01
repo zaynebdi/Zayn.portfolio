@@ -172,7 +172,8 @@ hr {
 
 .home img {
   width: auto;          
-  max-width: 400px;     
+  max-width: 400px;
+  max-height: 400px;
   height: auto;         
   border-radius: 10px;
   border: 2px solid black;
@@ -1001,6 +1002,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
