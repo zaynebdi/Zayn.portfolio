@@ -7,7 +7,7 @@ The website is visually appealing, interactive, and optimized for desktop, table
 
 ## 🌐 Live Demo
 
-👉 https://stalwart-baklava-8ed433.netlify.app/
+👉 
 
 ---
 
