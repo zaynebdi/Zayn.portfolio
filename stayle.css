@@ -64,9 +64,7 @@ header {
 
 .home-container {
   display: flex;
-  gap: 20rem;
-  height:auto;
-  width:auto;
+  gap: 15rem;
 }
 
 .home-p {
@@ -84,14 +82,13 @@ header {
 }
 
 .info-home h1 {
-   padding-top: 25px;
-  font-size: 70px;
+  font-size: 60px;
   font-family: "Raleway", sans-serif;
   margin-bottom: 20px;
 }
 
 .info-home h3 {
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Playfair Display", serif;
   margin-bottom: 20px;
 }
@@ -1005,6 +1002,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
