@@ -96,7 +96,7 @@ header {
 .info-p {
   color: #222;
   font-family: "Roboto", sans-serif;
-  padding-bottom: 24px;
+  padding-bottom: 30px;
 }
 
 .info-p p {
@@ -107,7 +107,7 @@ header {
   display: flex;
   gap: 1rem;
   color: #2c2c2c;
-  font-size: 16px;
+  font-size: 18px;
   padding-bottom: 20px;
 }
 
@@ -176,7 +176,7 @@ hr {
   max-height: 400px; */
   height: 500px;         
   border-radius: 10px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 
@@ -1002,6 +1002,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
