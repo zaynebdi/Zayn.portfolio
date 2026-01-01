@@ -64,6 +64,7 @@ header {
 
 .home-container {
   display: flex;
+  flex-wrap: nowrap;
   gap: 20rem;
 }
 
@@ -1000,6 +1001,7 @@ html, body {
     gap: 12px;
   }
 }
+
 
 
 
