@@ -64,7 +64,7 @@ header {
 
 .home-container {
   display: flex;
-  gap: 6rem;
+  gap: 20rem;
 }
 
 .home-p {
@@ -173,7 +173,8 @@ hr {
 .home img {
   border-radius: 10px;
   border: 2px solid black;
-  transform: translateX(30px);
+  hieght:300px;
+  width:300px;
 }
 
 
@@ -997,76 +998,6 @@ html, body {
   .footer-links {
     flex-direction: column;
     gap: 12px;
-  }
-}
-/* ===== HOME SECTION RESPONSIVE FIX ===== */
-
-/* Desktop fine spacing */
-.home-container {
-  align-items: center;
-}
-
-/* Tablets */
-@media (max-width: 1024px) {
-  .home-container {
-    flex-direction: column;
-    text-align: center;
-    gap: 3rem; /* text aur image ke beech space */
-  }
-
-  .home img {
-    margin-left: 0;
-    transform: none;
-    max-width: 350px;
-  }
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-  .home-container {
-    flex-direction: column;
-    gap: 2.5rem;
-    text-align: center;
-  }
-
-  .info-home {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .info-p,
-  .info-p2 {
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-  }
-
-  .btnn {
-    flex-direction: column;
-    width: 100%;
-  }
-
-  .home img {
-    width: 100%;
-    max-width: 280px;
-    height: auto;
-    margin: 0 auto;
-  }
-}
-
-/* Small phones */
-@media (max-width: 480px) {
-  .home-container {
-    gap: 2rem;
-  }
-
-  .info-home h1 {
-    font-size: 24px;
-  }
-
-  .info-home h3 {
-    font-size: 18px;
   }
 }
 
