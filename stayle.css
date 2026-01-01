@@ -173,6 +173,7 @@ hr {
 .home img {
   width: 400px;
   border-radius: 10px;
+  margin-left:20px;
 }
 
 /* fine home  */
@@ -997,4 +998,5 @@ html, body {
     gap: 12px;
   }
 }
+
 
